@@ -18,7 +18,6 @@ composer require nexuslinkservices/indian-city-finder
 
 ```
 <?php
-
 use IndianCityFinder\CityNameFinder;
 
 $cityNameFinder = new CityNameFinder();
