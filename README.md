@@ -18,6 +18,7 @@ composer require nexuslinkservices/indian-city-finder
 
 ```
 <?php
+
 use IndianCityFinder\CityNameFinder;
 
 $cityNameFinder = new CityNameFinder();
@@ -27,7 +28,7 @@ $city = $cityNameFinder->find('NDLS');
 echo $city;
 ```
 
-## Output on PHP
+## Output
 
 ```
 NEW DELHI
