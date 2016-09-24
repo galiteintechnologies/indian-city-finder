@@ -1,6 +1,6 @@
 <?php
 
-return array(
+$cityList = array(
         'ABR'      => 'ABU ROAD',
         'AH'       => 'ACHHNERA',
         'AF'       => 'AGRA FORT',
