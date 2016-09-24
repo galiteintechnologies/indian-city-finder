@@ -1,2 +1,2 @@
-# indian-city-finder
-Find indian city name by city short code
+# Indian City Finder
+Find Indian city name by Station Code.
