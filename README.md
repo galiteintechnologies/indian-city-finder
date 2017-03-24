@@ -11,7 +11,7 @@ Find Indian city name by Station Code.
 If you use composer, you can add this package by running 
 
 ````
-composer require nexuslinkservices/indian-city-finder
+composer require galiteintechnologies/indian-city-finder
 ````
 
 ## Usage
